@@ -1,0 +1,6 @@
+Why java:
+ performance
+ stability
+ security
+ compatibility
+ Maintainability
